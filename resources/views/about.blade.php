@@ -6,13 +6,10 @@
     <title>About Us</title>
 </head>
 <body>
-    <h1>Aku adalah</h1>
-    <ol>
-        <li>Princes</li>
-        <li>princes</li>
-        <li>princes</li>
-        <li>princes</li>
-        
-    </ol>
+    <h1>BIODATA DIRI</h1>
+    <p>Nama : Mega Wahyuni</p>
+    <p>Tempat dan Tanggal Lahir : Biak 19 Desember 2004</p>
+    <p>Hobi : Main Game</p>
+    <p>Cita-cita : Menjadi Programmer</p>
 </body>
 </html>
