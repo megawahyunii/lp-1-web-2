@@ -8,7 +8,7 @@
 <body>
     <h1>BIODATA DIRI</h1>
     <p>Nama : Mega Wahyuni</p>
-    <p>Tempat dan Tanggal Lahir : Biak 19 Desember 2004</p>
+    <p>Tempat dan Tanggal Lahir : Biak, 19 Desember 2004</p>
     <p>Hobi : Main Game</p>
     <p>Cita-cita : Menjadi Programmer</p>
 </body>
